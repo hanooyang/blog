@@ -1,4 +1,5 @@
 module.exports = {
+    base: '/blog/',
     title: 'Dyang Blog',
     description: 'Personal blog',
     plugins: [
